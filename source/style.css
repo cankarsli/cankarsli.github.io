@@ -1,0 +1,65 @@
+body
+{
+	background-color: #222;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.about_me
+{
+	color: white;
+	font-size: 19px;
+	text-align: center;
+	font-family: monaco,Consolas,Lucida Console,monospace;
+	margin: 15%;
+}
+
+.cont p.hi
+{
+	color: white;
+	text-align: center;
+	font-size: 22px;
+	font-family: monaco,Consolas,Lucida Console,monospace;
+}
+
+.social a
+{
+	font-size: 19px;
+	color: white;
+	font-family: monaco,Consolas,Lucida Console,monospace;
+	text-decoration: none;
+}
+
+.social a:hover
+{
+	color: #DBDBDB;
+}
+
+.social ul
+{
+	list-style-type: none;
+}
+
+.social ul li
+{
+	margin-bottom: 10px;
+}
+
+.langs
+{
+	margin: 10%;
+}
+
+.langs h1
+{
+	color: white;
+	font-family: monaco,Consolas,Lucida Console,monospace;
+}
+
+.langs ul li
+{
+	color: white;
+	font-family: monaco,Consolas,Lucida Console,monospace;
+	margin-bottom: 10px;
+}
+
